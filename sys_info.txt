@@ -1,0 +1,12 @@
+OS Name: b'Microsoft Windows 10 Home Single Language'
+OS Version: 10.0.19042 19042
+CPU: Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz
+RAM: 7.844898223876953 GB
+Graphics Card: Intel(R) UHD Graphics 630
+6
+75
+Windows
+NTFS
+255.226540032
+177.230716928
+77.995823104
